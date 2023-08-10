@@ -24,7 +24,7 @@ Telefone: 16 3351-8369
 
 E-mail: d-dcso@ufscar.br
 
-A licensa abaixo se aplica a todos os arquivos dos repositórios desta organização:
+A licença abaixo se aplica a todos os arquivos dos repositórios desta organização:
 
 ![image](https://github.com/Interfaces-UFSCAR/.github/assets/109227866/74b9eb31-5e7e-4254-b7ac-f31beee9c508)
 
