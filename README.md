@@ -2,7 +2,7 @@ Repositório online contendo parte importante dos projetos, principalmente compu
 INTERFACES. Majoritariamente composto por código (programação e scripting) e a respectiva documentação
 descritiva.
 
-Este repositório é privado, e requer conta Github autorizada para ser visualizado (com excessão do subrepositório interfaces-publico).
+Este repositório é privado, e requer conta Github autorizada para ser visualizado (com excessão do sub-repositório interfaces-publico).
 
 Para realizar a requisição de acesso, envie um e-mail identificando o pedido, juntamente com o nome (id)
 da conta Github a ser autorizada, para bc.greco.087@gmail.com - ou entre em contato através das
