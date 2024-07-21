@@ -30,4 +30,4 @@ A licença abaixo se aplica a todos os arquivos dos repositórios desta organiza
 
 Ela também pode ser encontrada no seguinte link https://drive.google.com/file/d/1bFsIb19wvB_o-TuRt789ihFrxJOU-leI/view?usp=sharing
 
-*Termos e ou licenças adicionais ou alternativas podem se aplicar a arquivos ou repositórios especificos quando fornecidos com outras licensas ou termos.
+*Termos e ou licenças adicionais ou alternativas podem se aplicar a arquivos ou repositórios especificos quando fornecidos com outras licensas ou termos. Em casos de termos conflitantes, os mais restritivos se aplicam.
