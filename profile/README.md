@@ -22,7 +22,7 @@ CEP: 13565-905
 
 Telefone: 16 3351-8369
 
-E-mail: d-dcso@ufscar.br
+E-mail: interfaces@ufscar.br
 
 A licença abaixo se aplica a todos os arquivos dos repositórios desta organização (exceto em casos especiais*):
 
